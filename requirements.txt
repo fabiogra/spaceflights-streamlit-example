@@ -1,0 +1,6 @@
+kedro==0.17.2
+kedro-viz~=3.1
+streamlit==0.80.0
+matplotlib==3.4.1
+plotly==4.14.3
+pygraphviz @ file:///D:/bld/pygraphviz_1613592414598/work
