@@ -1,3 +1,4 @@
 [server]
 maxUploadSize=20
 headless=true
+port=8508
